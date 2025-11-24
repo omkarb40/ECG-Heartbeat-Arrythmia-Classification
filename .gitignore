@@ -48,6 +48,7 @@ logs/
 data/
 *.csv
 *.npy
+heartbeat.zip
 
 # pytest
 .pytest_cache/
