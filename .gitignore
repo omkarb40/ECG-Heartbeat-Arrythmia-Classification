@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# PyTorch models / checkpoints / outputs
+checkpoints/
+models/
+*.pt
+*.pth
+outputs/
+logs/
+
+# Data
+data/
+*.csv
+*.npy
+
+# pytest
+.pytest_cache/
+
+# IDEs
+.idea/
+
+# pipenv
+Pipfile.lock
+
+# coverage
+.coverage
+htmlcov/
+coverage.xml
+
+# Notebook exports
+.nbconvert/
+
+# Ignore env files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+
+# Jupyter metadata
+.ipynb_checkpoints/
+
+# Ignore local secrets
+secrets/
+
+# keep requirements and README
+!requirements.txt
+!README_venv_setup.md
