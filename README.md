@@ -136,13 +136,3 @@ You can use these artifacts to reproduce the figures in the notebook or to build
 - Add Dockerfile or GitHub Actions workflow for reproducible runs.
 
 ---
-
-## License
-
-This repository is provided under the MIT License — change as needed.
-
----
-
-## Contact
-
-If you use or extend this project, please open an issue or PR. You can also email the author: (replace with your email/contact).
